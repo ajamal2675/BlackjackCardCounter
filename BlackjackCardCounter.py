@@ -1,3 +1,4 @@
+
 # Project: Blackjack Card Counter
 # Program Name: BlackjackCardCounter.py
 # Author: Allen Li
@@ -350,3 +351,5 @@ if __name__ == "__main__":
     MainWindow.setFixedSize(MainWindow.size())
     MainWindow.show()
     sys.exit(app.exec_())
+
+
